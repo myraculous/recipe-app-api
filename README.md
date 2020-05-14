@@ -1,2 +1,2 @@
 # recipe-app-api
-Thisi is a recipe app
+This is a recipe app
